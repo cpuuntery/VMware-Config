@@ -1,0 +1,14 @@
+mks.dx11.allowBlacklistedDrivers = "TRUE"
+mks.dx11.allowUnsupportedDevices = "TRUE"
+mks.enableVulkanRenderer = "FALSE"
+
+
+
+mks.enableDX11Renderer = "TRUE"
+
+
+mks.enableDX11Renderer = "FALSE"
+mks.enableDX12Renderer = "FALSE"
+mks.enableGLRenderer = "TRUE"
+
+
